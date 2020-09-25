@@ -1,0 +1,9 @@
+What happens when you initialize a repository? Why do you need to do it?
+Ans:
+A new folder .git is created which is supposed to track changes done in files in the directory where it is initialized.
+It is needed because git might have its own config for it.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Ans:
+Staging area lets add subset of files that is needed to be tracked.
+It allows user to custom add files which they needed to keep track at a moment.
