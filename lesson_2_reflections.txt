@@ -27,3 +27,8 @@ How do the diagrams help you visualize the branch structure?
 Ans:
 It makes it easier to keep track where the branches were created. 
 That's great.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Ans:
+Merging two branches together adds all the changes made to two branch into one.
+It makes it easier to visualize reachability.
