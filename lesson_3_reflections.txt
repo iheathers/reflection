@@ -13,3 +13,8 @@ Ans:
 Forks means making clone within github server.
 Clone refers to cloning from github server to local machine.
 Branches are label to commits.
+
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+Ans:
+It allows us to fetch remote changes when local and remote branches are out of sync exactly where they diverged.
